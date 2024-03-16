@@ -29,7 +29,7 @@ Debido a la naturaleza simétrica del tablero, el juego puede resultar en empate
 
 **Carpeta Game:** Dentro de esta carpeta se encuentran todos los archivos .py que contienen la lógica del juego, así como las configuraciones para determinar al ganador como en el caso de un empate y si el usuario desea jugar nuevamente.
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 **Carpeta UI:** Dentro de este apartado podremos encontrar todos los archivos que contiene todo el apartado visual del programa, de modo que para el usuario le sea más sencillo entender cómo funciona el juago y este pueda jugarlo cuantas veces quiera.
 
@@ -37,11 +37,11 @@ Debido a la naturaleza simétrica del tablero, el juego puede resultar en empate
 
 **Check Winner:**
 Dentro de la programación del juego dicha validación procura realizar una búsqueda dentro de las filas, columnas y diagonales, haciendo un recorrido por cada una de las mismas así también como sus diagonales, revisando los caracteres para poder verificar al ganador, dependiendo del caso que devuelvan, este mostrará el ganador de la partida. Si en algún caso es verdadero este ejecutara la función de terminar juego
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 **End Game:**
 Esta función configura la ventana que muestra el resultado y al símbolo ganador.
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 # Conclusión
 Un totito es un algoritmo de inteligencia artificial simple en donde realiza una búsqueda exhaustiva de todas las posibilidades de algoritmos de aprendizajes automático  en donde mejoran el rendimiento a medida que se juegan más partidas.
